@@ -1,0 +1,26 @@
+{
+  "name": "DirectIO",
+  "version": "0.1",
+  "keywords": "input, output",
+  "description": "Fast, simple I/O library for Arduino",
+  "authors": [
+    {
+      "name": "mmarchetti"
+    },
+    {
+      "name": "Victor Tseng",
+      "email": "palatis@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Palatis/DirectIO.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr"
+  ]
+}
